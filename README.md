@@ -15,9 +15,8 @@ Pressing button 2 sends the elevator to the 1st floor. There are 3 cases in whic
 By pressing button 3, the elevator is sent to the 2nd floor. The case is similar to button 1. If the elevator is already on the 2nd floor (distance=4), it remains in that position, if it is below that height, the motor is turned on until it reaches that position. When the elevator reaches the second floor, the number 2 appears on the display.
 
 ## Picture of the elevator from the front
+<img src="./assets/elevator.jpg" alt="drawing" width="400"/>
 
-![Elevator photo front](./assets/elevator.jpg)
 
 ## Picture of the elevator from the top
-
-![Elevator photo front](./assets/elevator_top.jpg)
+<img src="./assets/elevator_top.jpg" alt="drawing" width="400"/>
