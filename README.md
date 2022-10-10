@@ -31,7 +31,6 @@ By pressing button 3, the elevator is sent to the 2nd floor. The case is similar
 
 ---
 
-<<<<<<< HEAD
 ## Circuit diagram
 <img src="./assets/kompletna sema projekta.png" alt="drawing" width="700"/>
 
@@ -40,8 +39,3 @@ By pressing button 3, the elevator is sent to the 2nd floor. The case is similar
 You can watch video models of the elevator at the following link:
 
 https://www.youtube.com/watch?v=hT3nBkbIbvs&ab_channel=MarkoTopalovi%C4%87
-=======
-You can watch video models of the elevator at the following link:
-
-https://www.youtube.com/watch?v=hT3nBkbIbvs&ab_channel=MarkoTopalovi%C4%87
->>>>>>> 6784f8e11d7677e7a59aa38b8e7f0dc525ccfea9
