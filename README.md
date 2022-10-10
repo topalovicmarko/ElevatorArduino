@@ -32,7 +32,7 @@ By pressing button 3, the elevator is sent to the 2nd floor. The case is similar
 ---
 
 ## Circuit diagram
-<img src="./assets/kompletna sema projekta.png" alt="drawing" width="700"/>
+<img src="./assets/circuit_diagram.png" alt="drawing" width="700"/>
 
 ---
 
