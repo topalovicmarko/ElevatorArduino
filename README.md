@@ -28,3 +28,14 @@ By pressing button 3, the elevator is sent to the 2nd floor. The case is similar
 
 ## Picture of the elevator from the top
 <img src="./assets/elevator_top.jpg" alt="drawing" width="400"/>
+
+---
+
+## Circuit diagram
+<img src="./assets/kompletna sema projekta.png" alt="drawing" width="700"/>
+
+---
+
+You can watch video models of the elevator at the following link:
+
+https://www.youtube.com/watch?v=hT3nBkbIbvs&ab_channel=MarkoTopalovi%C4%87
